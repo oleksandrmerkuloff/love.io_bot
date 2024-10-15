@@ -1,4 +1,4 @@
 .env
 venv/
 todo.txt
-logo.png
+__pychache__
